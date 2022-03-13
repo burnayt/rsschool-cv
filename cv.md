@@ -30,4 +30,7 @@ function arrayToTree(array) {
    
 };
 ```
+# Languages
+* **Russian** - Native
+* **English** - B1
 
